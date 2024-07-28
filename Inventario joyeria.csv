@@ -1,0 +1,56 @@
+ID,Articulo,Material,Cantidad,Costo Unitario,Costo total
+1,Cádena Venesiana,Plata,3,$70.00,$210.00
+2,Cádena Bolita Militar,Plata,1,$85.00,$85.00
+3,Cádena Ancla de Corazones,Plata,1,$85.00,$85.00
+4,Cádena Ancla XS,Plata,1,$90.00,$90.00
+5,Cadena Ancla S,Plata,1,$95.00,$95.00
+6,Cádena Fígaro,Plata,2,$120.00,$240.00
+7,Cádena Barbana,Plata,2,$120.00,$240.00
+8,Cádena Cola de Rata,Plata,2,$125.00,$250.00
+9,Cádena Ancla L,Plata,3,$135.00,$405.00
+10,Cádena Alma de Plata,Plata,1,$155.00,$155.00
+11,Cádena Panza de Víbora,Acero Inox,12,$5.00,$60.00
+12,Juego Cuadrado Cristal Tornasol,Plata,2,$70.00,$140.00
+13,Juego Bola,Plata,2,$130.00,$260.00
+14,Juego Corazones S Blanco Cristal Tornasol,Plata,2,$130.00,$260.00
+15,Juego Corazones S Negro Cristal Tornasol,Plata,1,$130.00,$130.00
+16,Juego Corazones S Azúl Cristal Tornasol,PLATA,1,$130.00,$130.00
+17,Juego Corazones L Rojo Cristal Tornasol,Plata,1,$160.00,$160.00
+18,Juego Gota S Rojo Cristal Trornasol,Plata,1,$130.00,$130.00
+19,Juego Corazones Liso S,Plata,1,$130.00,$130.00
+20,Juego Corazones Liso L ,Plata,1,$160.00,$160.00
+21,Juego Tous S ,Plata,1,$130.00,$130.00
+22,Juego Tous L,Plata,1,$220.00,$220.00
+23,Juego Gato S,Plata,1,$130.00,$130.00
+24,Juego Colibri Liso S,Plata,1,$130.00,$130.00
+25,Juego Colibri Tornasol Rosa L,Plata,1,$150.00,$150.00
+26,Juego Mariposa Pinta Negra S,Plata,1,$130.00,$130.00
+27,Juego Mariposa Calado L,Plata,1,$130.00,$130.00
+28,Juego Cristal Cuadrado L,Plata,1,$160.00,$160.00
+29,Juego Aperlado Redondo S,Plata,1,$180.00,$180.00
+30,Broquel Cristal Blanco S,Plata,2,$20.00,$40.00
+31,Broquel Cristal Tornasol S,Plata,1,$20.00,$20.00
+32,Broquel Cristal Azúl Rey S,Plata,1,$20.00,$20.00
+33,Broquel Cristal Rojo S,Plata,1,$20.00,$20.00
+34,Broquel Cristal Manzana S,Plata,1,$20.00,$20.00
+35,Broquel Cristal Cereza S,Plata,1,$20.00,$20.00
+36,Broquel Cristal Sandia S,Plata,1,$20.00,$20.00
+37,Broquel Cristal Stich S,Plata,1,$20.00,$20.00
+38,Broquel Estrella S,Plata,1,$20.00,$20.00
+39,Broquel Corazón S,Plata,1,$20.00,$20.00
+40,Broquel Frida S,Plata,1,$20.00,$20.00
+41,Broquel Cristal Fresa S ,Plata,1,$20.00,$20.00
+42,Broquel Cristal Fresa L,Plata,1,$30.00,$30.00
+43,Broquel Tulipan Blanco S,Plata,1,$20.00,$20.00
+44,Broquel Girasol S,Plata,1,$30.00,$30.00
+45,Broquel Girasol L,Plata,1,$20.00,$20.00
+46,Broquel Cristal Fresa Rosa L,Plata,1,$30.00,$30.00
+47,Broquel Corazón Blanco L,Plata,1,$50.00,$50.00
+48,Arracada Torcida XS,Plata,1,$65.00,$65.00
+49,Arracada Lisa S,Plata,1,$75.00,$75.00
+50,Arracada Cristal S,Plata,2,$85.00,$170.00
+51,Arracada Cristal M,Plata,1,$125.00,$125.00
+52,Arracada Cristal L,Plata,1,$130.00,$130.00
+53,Arracada Teléfono Cristal Rosa S,Plata,1,$40.00,$40.00
+54,Arracada Teléfono Cristal Negra S,Plata,1,$40.00,$40.00
+,,,,"$4,595.00","$5,860.00"
